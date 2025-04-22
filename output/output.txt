@@ -1,0 +1,5 @@
+palavras duplicadas no parágrafo 2: lorem, ipsum, dummy, text, the, and, typesetting, has, type, with
+palavras duplicadas no parágrafo 4: that, will, the, readable, content, page, using, lorem, ipsum, like, many, and, web, their, sometimes
+palavras duplicadas no parágrafo 6: 11032, popular, lorem, ipsum, classical, latin, literature, from, bc, the, and, comes, line
+palavras duplicadas no parágrafo 7: the, reproduced, from
+palavras duplicadas no parágrafo 9: there, are, lorem, ipsum, the, injected, humour, words, which, you, internet
